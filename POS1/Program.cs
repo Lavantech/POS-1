@@ -34,7 +34,7 @@ class Program
             store.ExecuteSale(
                 customerID: 1,
                 productID: 1,
-                quantity: 2
+                quantity: 3
             );
             // 6. Sale executes - Ted buys one copy of Mario with $20 delivery
             //                    and uses 200 loyalty points for $20 off
