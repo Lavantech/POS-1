@@ -1,0 +1,15 @@
+C:\Users\Khanh Ho\source\repos\POS1\POS1\bin\Debug\net6.0\POS1.exe
+C:\Users\Khanh Ho\source\repos\POS1\POS1\bin\Debug\net6.0\POS1.deps.json
+C:\Users\Khanh Ho\source\repos\POS1\POS1\bin\Debug\net6.0\POS1.runtimeconfig.json
+C:\Users\Khanh Ho\source\repos\POS1\POS1\bin\Debug\net6.0\POS1.dll
+C:\Users\Khanh Ho\source\repos\POS1\POS1\bin\Debug\net6.0\ref\POS1.dll
+C:\Users\Khanh Ho\source\repos\POS1\POS1\bin\Debug\net6.0\POS1.pdb
+C:\Users\Khanh Ho\source\repos\POS1\POS1\obj\Debug\net6.0\POS1.csproj.AssemblyReference.cache
+C:\Users\Khanh Ho\source\repos\POS1\POS1\obj\Debug\net6.0\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khanh Ho\source\repos\POS1\POS1\obj\Debug\net6.0\POS1.AssemblyInfoInputs.cache
+C:\Users\Khanh Ho\source\repos\POS1\POS1\obj\Debug\net6.0\POS1.AssemblyInfo.cs
+C:\Users\Khanh Ho\source\repos\POS1\POS1\obj\Debug\net6.0\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Khanh Ho\source\repos\POS1\POS1\obj\Debug\net6.0\POS1.dll
+C:\Users\Khanh Ho\source\repos\POS1\POS1\obj\Debug\net6.0\ref\POS1.dll
+C:\Users\Khanh Ho\source\repos\POS1\POS1\obj\Debug\net6.0\POS1.pdb
+C:\Users\Khanh Ho\source\repos\POS1\POS1\obj\Debug\net6.0\POS1.genruntimeconfig.cache
